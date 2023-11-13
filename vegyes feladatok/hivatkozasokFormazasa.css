@@ -1,0 +1,19 @@
+/* még sosem kattintottam */
+a:link {
+    color: red;
+  }
+  
+  /* látogatott link */
+  a:visited {
+    color: green;
+  }
+  
+  /* fölé húzom az egeret*/
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* éppen kattintom */
+  a:active {
+    color: blue;
+  }
